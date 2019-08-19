@@ -1,2 +1,2 @@
-# Photoshop-
+# Photoshop
 Resources for Photoshop
